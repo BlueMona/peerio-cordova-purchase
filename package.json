@@ -1,9 +1,9 @@
 {
-  "name": "cc.fovea.cordova.purchase",
+  "name": "com.peerio.cordova.plugin.purchase",
   "version": "6.0.0",
   "description": "Cordova Purchase plugin for iOS and Android (AppStore and PlayStore)",
   "cordova": {
-    "id": "cc.fovea.cordova.purchase",
+    "id": "com.peerio.cordova.plugin.purchase",
     "platforms": [
       "android",
       "ios",
